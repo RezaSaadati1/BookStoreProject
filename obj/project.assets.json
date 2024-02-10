@@ -5226,4 +5226,8 @@
       "message": "Package 'Microsoft.AspNetCore.Authentication.JwtBearer' 3.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-q7cg-43mg-qp69",
       "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
       "targetGraphs": [
-       
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

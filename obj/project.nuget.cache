@@ -102,4 +102,7 @@
       "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
-     
+      ]
+    }
+  ]
+}
